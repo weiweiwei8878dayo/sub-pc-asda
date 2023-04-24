@@ -9,7 +9,7 @@ jobs:
   build:
 
 
-    runs-on: proxmoxve-latest
+    runs-on: Linux 5.15.0-60-generic
 
 
     steps:
